@@ -12,6 +12,7 @@
   "dependencies": {
     "chalk": "^4.1.1",
     "clear": "^0.1.0",
+    "cli-table": "^0.3.6",
     "clui": "^0.3.6",
     "figlet": "^1.5.0",
     "googleapis": "^73.0.0",
